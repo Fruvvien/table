@@ -1,0 +1,41 @@
+body{
+    background-color: gray;
+}
+table{
+    width: 100%;
+    border: 2px solid blue;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid red;
+}
+
+tr{
+    width: 1000px;
+    background-color: white;
+    
+}
+h1{
+    color: darkblue;
+}
+.td1{
+    width: 200px;
+    text-align: right;
+}
+.td3{
+    width: 200px;
+}
+.vw{
+    
+    color: brown;
+}
+.td2{
+    
+}
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.p1{
+    color: brown;
+}
